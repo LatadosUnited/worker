@@ -1,0 +1,13 @@
+# Core ML/CV
+torch
+torchvision
+torchaudio
+opencv-python-headless
+numpy
+git+https://github.com/facebookresearch/segment-anything.git
+
+# Web, Fila e Monitoramento
+Flask
+redis
+watchdog
+requests  # Usado pelo worker
